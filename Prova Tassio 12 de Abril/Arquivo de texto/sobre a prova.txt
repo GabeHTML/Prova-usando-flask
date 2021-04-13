@@ -1,0 +1,10 @@
+Tássio, a página inicial é a index.html dentro da pasta template.
+
+Consegui efetuar o Flask, o javascript, o python, o html5, o pip, o css, o bootstrap e o git.
+
+O css esta integrado ao bootstrap.
+
+Não consegui efetuar o jinja2.
+
+O Flask, o javascript, o python, o html5, o css e o bootstrap são os que eu achei essencial pra mim
+ja que com esses processos do código, ja pude efetuar o site. Não consegui o jinja2 por não conseguir efetuá-lo no código.
